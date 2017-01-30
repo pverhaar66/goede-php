@@ -33,8 +33,8 @@
 <body id="base" style="background: url('<?php echo $wall ?>')">
 	<main>
 		<section id="time">
-			<p><?php echo $msg; ?></p>
-			 <p> <?php echo $t; ?> </p>
+			<p> <?php echo $msg; ?> </p>
+			<p> <?php echo $t; ?> </p>
 
 		</section>
 	</main>
